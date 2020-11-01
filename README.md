@@ -6,7 +6,7 @@ Tandem Trivia
 Instructions:
 
 
-  - Clone repo:
+  - Clone repo:  git@github.com:corri-golden/tandem-trivia.git
 
 
   
