@@ -6,13 +6,10 @@ Tandem Trivia
 Instructions:
 
 
-  - Clone repo:  git@github.com:corri-golden/tandem-trivia.git
-
-
+  - Clone repo:  git clone git@github.com:corri-golden/tandem-trivia.git
   
+  - cd corri-golden/tandem-trivia.git
 
-
-  - Next enter python tandem_trivia.py 
-
+  - run python tandem_trivia.py 
 
   - Put away your cell phone and enjoy.
